@@ -2,6 +2,10 @@
 
 Lean 4 formalization accompanying the paper **“Coalition-Proof Disclosure”** by Germán Gieczewski and Maria Titova.
 
+## Acknowledgments
+
+This formalization was developed with assistance from Aristotle by Harmonic, Claude Opus 4.8, Claude Fable 5, and GPT-5.6-Sol.
+
 The library is self-contained apart from mathlib and one explicitly declared mathematical axiom: Kakutani’s fixed-point theorem for finite-dimensional real normed spaces. The root module is `CPD.lean`; source modules are in `CPD/`.
 
 ## Build

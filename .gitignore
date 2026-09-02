@@ -1,0 +1,10 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Lean build artifacts
+/.lake/
+**/.lake/
+*.olean
+*.ilean
